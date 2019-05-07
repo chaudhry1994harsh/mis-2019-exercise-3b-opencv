@@ -1,7 +1,7 @@
 MISExercise3 : OpenCV face detection and Clown Nose effect
 
 Project Setup
-I followed this tutorial while setting uo the project
+I followed this tutorial while setting up the project
 https://medium.com/easyread/integrating-your-android-app-with-opencv-library-266b2ea913d3
 
 But faced some issues while building the project as some dependencies were not getting resolved in gradle file.
